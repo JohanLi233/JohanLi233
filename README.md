@@ -5,7 +5,7 @@
     </a>  
     <br>  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLi233&theme=radical&hide_border=true" alt="Top Langs" style="max-width:100%;">  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLi233&layout=compact&theme=radical&hide_border=true" alt="Top Langs" style="max-width:100%;">  
     </a>  
     <br>  
     <a href="https://github.com/JohanLi2333">  
@@ -13,7 +13,7 @@
     </a>  
     <br>  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLi2333&theme=radical&hide_border=true" alt="Top Langs" style="max-width:100%;">  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLi2333&layout=compact&theme=radical&hide_border=true" alt="Top Langs" style="max-width:100%;">  
     </a>  
 </div>  
 ## 🛠️ Skills
