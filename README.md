@@ -16,6 +16,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLi2333&layout=compact&theme=radical&hide_border=true" alt="Top Langs" style="max-width:100%;">  
     </a>  
 </div>  
-## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
