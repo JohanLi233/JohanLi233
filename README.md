@@ -12,6 +12,8 @@
     </a>
 </div>
 
+[![JohanLi233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohanLi233&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
@@ -19,10 +21,6 @@
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
     <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
 </div>
-
-
-[![JohanLi233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohanLi233&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">
     <a href="mailto:li_zhonghan@qq.com">
